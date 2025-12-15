@@ -1,28 +1,54 @@
-Thank you for choosing our app. Your privacy is important to us.
+# Privacy Policy
 
-1. No Personal Data Collected
-This app does not collect, store, or share any personal information or user data.
+This Privacy Policy explains how information is handled when you use this app.
 
-We do not collect:
-- Names, email addresses, or contact info
-- Location data
-- Device identifiers or IP addresses
-- Usage or behavioral data
-- Audio recordings or microphone access
+---
 
-The app functions entirely offline and does not require user registration or an internet connection to use its core features.
+## Information We Collect
 
-2. No Third-Party Services
-This app does not use third-party services such as analytics, advertising, or cloud storage providers. No data is shared with any third party.
+### Analytics
 
-3. Data Security
-Since we do not collect or store any personal information, there is no risk of your data being accessed, leaked, or compromised.
+We use analytics tools to understand how the app is used. These tools may collect non-personal information such as:
 
-4. Paid App Disclaimer
-This is a one-time purchase app. Once downloaded, all features are fully available without the need for additional in-app purchases or subscriptions. There are no ads in the app.
+* App usage (features used, time spent)
+* Device information (device type, operating system)
+* General location (country or region)
+* App performance data (crashes or errors)
 
-5. Changes to This Policy
-We may update this Privacy Policy if necessary. Any changes will be reflected on this page, and the new version will be effective immediately upon publication.
+This information is used only to improve the app and user experience.
 
-6. Contact Us
-If you have any questions or concerns about this privacy policy, feel free to contact us at : noize.dev3@gmail.com
+### In-App Purchases
+
+The app offers optional in-app purchases.
+
+* Payments are processed by the app store (Google Play)
+* We do not collect or store payment or credit card information
+* We only receive purchase status information to unlock premium features
+
+---
+
+## How We Use Information
+
+Information is used to:
+
+* Improve app performance and stability
+* Enable purchased features
+* Understand how the app is used
+
+---
+
+## Data Sharing
+
+We do not sell or share your personal data. Information may be shared only when required by law or to operate app services (such as analytics or app store purchases).
+
+---
+
+## Changes
+
+This Privacy Policy may be updated from time to time. Updates will be reflected in the app or app store listing.
+
+---
+
+## Contact
+
+If you have questions about this Privacy Policy, contact us at: : noize.dev3@gmail.com
